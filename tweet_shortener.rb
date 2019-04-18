@@ -14,6 +14,7 @@ def dictionary
   }
 end
 
+
 def word_substituter(tweets)
 final = []
 dict = dictionary.keys
